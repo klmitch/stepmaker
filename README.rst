@@ -2,6 +2,9 @@
 Step Maker Step-parsing Framework
 =================================
 
+.. image:: https://travis-ci.org/klmitch/stepmaker.svg?branch=master
+    :target: https://travis-ci.org/klmitch/stepmaker
+
 The `ansible`_ system automation tool uses, as its primary primitive,
 a list of steps to execute, expressed in YAML list syntax.  Each step
 is described as a dictionary, with one key indicating the actual
